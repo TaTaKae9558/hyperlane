@@ -17,7 +17,7 @@
 ![image](https://github.com/TaTaKae9558/hyperlane/assets/58290863/ebde4e0f-ee57-45fe-9f6d-75e69be91841)
 <br />
 <br />
-### 1 - Usenexus bridge : ⛓️
+### 1 - NEXUS bridge : ⛓️
 
 Cüzdanınıza inEVM, Arbitrum ve Manta chainlerini ekleyin 👉 (https://chainlist.org/)
 
